@@ -1,2 +1,2 @@
 # windows-calc
-This is a demo code that works like a windows calculator
+This is a js program that works like a windows calculator
